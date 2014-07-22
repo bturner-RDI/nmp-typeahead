@@ -1,0 +1,11 @@
+{"name": "nmp-typeahead",
+"version": "0.0.0",
+"description": "Typeahead search for nmp packages",
+"main": "lib/index.js",
+"scripts": { "test": "./node_modules/.bin/mocha -u bdd"},
+"repository": { "type": "git", "url": "git@github.com:bcoe/nmp-typeahead.git"},
+"keywords": ["nmp", "search", "typeahead"],
+"author": "Brian Turner <bturner@bcidaho.com>",
+"license": "ISC",
+"bugs": {"url": "https://github.com/bcoe/nmp-typeahead/issues"},
+"homepage": "https://github.com/bcoe/nmp-typeahead"}
